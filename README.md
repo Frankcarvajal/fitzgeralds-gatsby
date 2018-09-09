@@ -16,7 +16,7 @@ In honor of the true great Gatsby, F. Scott Fitzgerald
 
 [Gatsby Official Site](https://next.gatsbyjs.org/)
 
-[Gatsby AWS Hosting](https://next.gatsbyjs.org/blog/2018-08-24-gatsby-aws-hosting/)
+[Gatsby AWS Hosting via Amazon Web Services Amplify](https://next.gatsbyjs.org/blog/2018-08-24-gatsby-aws-hosting/)
 
 [Getting Started with Gatsby & Wordpress](https://www.gatsbyjs.org/blog/2018-01-22-getting-started-gatsby-and-wordpress/)
 
