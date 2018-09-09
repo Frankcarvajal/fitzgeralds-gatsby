@@ -11,6 +11,19 @@
 
 Gatsby boilerplate. Barebones, this ships with the main Gatsby configuration files needed.
 In honor of the true great Gatsby, F. Scott Fitzgerald
+
+[JAM Stack](https://jamstack.org/)
+
+[Gatsby Official Site](https://next.gatsbyjs.org/)
+
+[Gatsby AWS Hosting](https://next.gatsbyjs.org/blog/2018-08-24-gatsby-aws-hosting/)
+
+[Getting Started with Gatsby & Wordpress](https://www.gatsbyjs.org/blog/2018-01-22-getting-started-gatsby-and-wordpress/)
+
+[JS with WP via Calypso](https://github.com/Automattic/wp-calypso)
+
+[Wordpress Core Gutenberg](https://github.com/WordPress/gutenberg)
+
 Inline-style:
 ![F. Scott Fitzgerald](https://www.phactual.com/wp-content/uploads/2014/11/F.Scott-Fitzgerald-1900x1464_c.jpg "F. Scott Fitzgerald")
 
